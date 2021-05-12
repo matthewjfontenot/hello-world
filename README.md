@@ -1,5 +1,5 @@
 # hello-world
-#First public project
+#About me
 
 Hello World!
 
